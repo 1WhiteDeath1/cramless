@@ -1,0 +1,12 @@
+/* CramLess dark theme: neutral charcoal with a lighter terracotta accent. Colour tokens only. */
+.root {
+    c-bg: #121211; c-surface: #1B1A19; c-sunk: #222120; c-hover: #2A2927;
+    c-line: #363432; c-line2: #4C4946;
+    c-ink: #F2F0EE; c-ink2: #C9C5C1; c-ink3: #9A9590;
+    c-brand: #EE8A5E; c-brand-ink: #F4A27D; c-brand-soft: #262422; c-on-brand: #1A120E;
+    c-gold: #F2BE52; c-gold-ink: #F4C870; c-gold-soft: #2E2715;
+    c-olive: #9CC46E; c-olive-ink: #B1D487; c-olive-soft: #1F2A17;
+    c-coral: #EF7461; c-coral-soft: #33201C;
+    c-shade: rgba(0, 0, 0, 0.6);
+    c-shadow: rgba(0, 0, 0, 0.5);
+}

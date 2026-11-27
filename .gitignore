@@ -1,0 +1,12 @@
+# build output
+target/
+# private Java/Maven copies downloaded by start.bat
+.tools/
+# local data and scratch
+*.db
+_to_delete/
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store

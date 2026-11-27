@@ -1,0 +1,12 @@
+/* CramLess light theme: neutral grays with a terracotta accent. Colour tokens only. */
+.root {
+    c-bg: #EDEDEB; c-surface: #FFFFFF; c-sunk: #F6F6F5; c-hover: #EBEBE9;
+    c-line: #D3D3CF; c-line2: #B9B9B4;
+    c-ink: #1F1D1B; c-ink2: #4A4744; c-ink3: #73706B;
+    c-brand: #B84D27; c-brand-ink: #9C3E1C; c-brand-soft: #F1EFED; c-on-brand: #FFFFFF;
+    c-gold: #D9961A; c-gold-ink: #7A5200; c-gold-soft: #FAF1DC;
+    c-olive: #5E8A3E; c-olive-ink: #3F6326; c-olive-soft: #E8F0E0;
+    c-coral: #C8402F; c-coral-soft: #FBE7E4;
+    c-shade: rgba(20, 19, 18, 0.36);
+    c-shadow: rgba(0, 0, 0, 0.16);
+}
